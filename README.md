@@ -4,17 +4,19 @@ My 7th music CD. I'm working on it...
 
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
-Name|OGG|MP3
-Stuk Eiwit (unfinished)|[here](CD07_StukEiwit20070930.ogg)|[here](CD07_StukEiwit20070930.mp3)
-Organellenwals | [here](CD07_Organellenwals.ogg)| [here](CD07_Organellenwals.mp3)
-Ben Ik Een Spin | [here](CD07_BenIkEenSpin20070610.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)
-Heejaa Mama | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)
-Voor De Klas | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)
-Vrouwen Van Je Dromen | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD07_VrouwenVanJeDromen20110424.mp3)
-"Friday" | [here](CD07_Friday20110812.ogg) | [here](CD07_Friday20110812.mp3)
-Groningen Danst | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)
-Superman B | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)
-Hee Ga Je Mee | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)
+Name|OGG|MP3|YouTube|MP4
+---|---|---|---|---
+Stuk Eiwit (unfinished)|[here](CD07_StukEiwit20070930.ogg)|[here](CD07_StukEiwit20070930.mp3)|none|none
+Organellenwals | [here](CD07_Organellenwals.ogg)| [here](CD07_Organellenwals.mp3)|none|none
+Ben Ik Een Spin | [here](CD07_BenIkEenSpin20070610.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)|none|none
+Heejaa Mama | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)|none|none
+Voor De Klas | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)|none|none
+Vrouwen Van Je Dromen | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD07_VrouwenVanJeDromen20110424.mp3)|none|none
+"Friday" | [here](CD07_Friday20110812.ogg) | [here](CD07_Friday20110812.mp3)|none|none
+Groningen Danst | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)|none|none
+Superman B | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)|none|none
+Hee Ga Je Mee | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)|none|none
+Monsier Pannetier | | | | [here](monsieur_pannetier.mp4)
 
 ## Raw material
 
