@@ -16,7 +16,8 @@ Vrouwen Van Je Dromen | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD0
 Groningen Danst | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)|none|none
 Superman B | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)|none|none
 Hee Ga Je Mee | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)|none|none
-Monsier Pannetier | | | | [here](monsieur_pannetier.mp4)
+[Monsier Pannetier](https://github.com/richelbilderbeek/music/blob/master/MonsierPannetier.md) | | | | [here](monsieur_pannetier.mp4)
+Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | none |none|none
 
 ## Raw material
 
