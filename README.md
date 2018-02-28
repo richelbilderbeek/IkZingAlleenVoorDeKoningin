@@ -26,6 +26,7 @@ Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
 Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
 [Liefdeskapitein](https://github.com/richelbilderbeek/music/blob/master/Liefdeskapitein.md) | [here](CD07_Liefdeskapitein20180228.ogg) | . | . | . 
 [Een](https://github.com/richelbilderbeek/music/blob/master/Een.md) | [here](CD07_Een20180228.ogg) | . | . | . 
+Alle Kleuren (instrumentaal)| [here](CD07_AlleKleuren20180228.ogg) | . | . | . 
 
 ## Raw material
 
