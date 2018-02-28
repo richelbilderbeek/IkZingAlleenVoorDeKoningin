@@ -6,20 +6,20 @@ My 7th music CD. I'm working on it...
 
 Name|OGG|MP3|YouTube|MP4
 ---|---|---|---|---
-Stuk Eiwit (unfinished)|[here](CD07_StukEiwit20070930.ogg)|[here](CD07_StukEiwit20070930.mp3)| . | .
-Organellenwals | [here](CD07_Organellenwals.ogg)| [here](CD07_Organellenwals.mp3)| . | . 
-Ben Ik Een Spin | [here](CD07_BenIkEenSpin20070610.ogg) [here](CD07_BenIkEenSpin20180227.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)| . | . 
-Heejaa Mama | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)| . | .
-Voor De Klas | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)| . | . 
-Vrouwen Van Je Dromen | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD07_VrouwenVanJeDromen20110424.mp3)| . | . 
-"Friday" | [here](CD07_Friday20110812.ogg) | [here](CD07_Friday20110812.mp3)| . | .
-Groningen Danst | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)| . | .
-Superman B | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)| . | . 
-Hee Ga Je Mee | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)| . | .
+[Stuk Eiwit](https://github.com/richelbilderbeek/music/blob/master/StukEiwit.md) |[here](CD07_StukEiwit20070930.ogg)|[here](CD07_StukEiwit20070930.mp3)| . | .
+[Organellenwals](https://github.com/richelbilderbeek/music/blob/master/Organellenwals.md) | [here](CD07_Organellenwals.ogg)| [here](CD07_Organellenwals.mp3)| . | . 
+[Ben Ik Een Spin](https://github.com/richelbilderbeek/music/blob/master/BenIkEenSpin.md) | [here](CD07_BenIkEenSpin20070610.ogg) [here](CD07_BenIkEenSpin20180227.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)| . | . 
+[Heejaa Mama](https://github.com/richelbilderbeek/music/blob/master/HeejaaMama.md) | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)| . | .
+[Voor De Klas](https://github.com/richelbilderbeek/music/blob/master/VoorDeKlas.md) | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)| . | . 
+[Vrouwen Van Je Dromen](https://github.com/richelbilderbeek/music/blob/master/VrouwenVanJeDromen.md) | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD07_VrouwenVanJeDromen20110424.mp3)| . | . 
+["Friday"](https://github.com/richelbilderbeek/music/blob/master/Friday.md) | [here](CD07_Friday20110812.ogg) | [here](CD07_Friday20110812.mp3)| . | .
+[Groningen Danst](https://github.com/richelbilderbeek/music/blob/master/GroningenDanst.md) | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)| . | .
+[Superman B](https://github.com/richelbilderbeek/music/blob/master/SupermanB.md) | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)| . | . 
+[Hee Ga Je Mee](https://github.com/richelbilderbeek/music/blob/master/HeeGaJeMee.md) | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)| . | .
 [Monsier Pannetier](https://github.com/richelbilderbeek/music/blob/master/MonsierPannetier.md) | . | . | . | [here](monsieur_pannetier.mp4)
 Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
-Pjanoman | [here](CD07_Pjanoman.ogg) | . | . | . 
-Santa Claus Is Coming To Town | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
+[Pjanoman](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md) | [here](CD07_Pjanoman.ogg) | . | . | . 
+Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
 
 ## Raw material
 
