@@ -1,5 +1,9 @@
 # Ik Zing Alleen Voor De Koningin
 
+Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+---|---
+master|[![Build Status](https://travis-ci.org/richelbilderbeek/IkZingAlleenVoorDeKoningin.svg?branch=master)](https://travis-ci.org/richelbilderbeek/IkZingAlleenVoorDeKoningin)
+
 My 7th music CD. I'm working on it...
 
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
@@ -16,9 +20,9 @@ Name|OGG|MP3|YouTube|MP4
 [Groningen Danst](https://github.com/richelbilderbeek/music/blob/master/GroningenDanst.md) | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)| . | .
 [Superman B](https://github.com/richelbilderbeek/music/blob/master/SupermanB.md) | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)| . | . 
 [Hee Ga Je Mee](https://github.com/richelbilderbeek/music/blob/master/HeeGaJeMee.md) | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)| . | .
-[Monsier Pannetier](https://github.com/richelbilderbeek/music/blob/master/MonsierPannetier.md) | . | . | . | [here](monsieur_pannetier.mp4)
+[Monsier Pannetier](https://github.com/richelbilderbeek/music/blob/master/MonsieurPannetier.md) | . | . | . | [here](monsieur_pannetier.mp4)
 Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
-[Pjanoman](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md) | [here](CD07_Pjanoman.ogg) | . | . | . 
+[Pjanoman](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md) | [here](CD07_Pjanoman20180227.ogg) | . | . | . 
 Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
 
 ## Raw material
