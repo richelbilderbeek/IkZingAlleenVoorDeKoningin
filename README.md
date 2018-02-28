@@ -24,6 +24,7 @@ Name|OGG|MP3|YouTube|MP4
 Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
 [Pjanoman](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md) | [here](CD07_Pjanoman20180227.ogg) | . | . | . 
 Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
+[Liefdeskapitein](https://github.com/richelbilderbeek/music/blob/master/Liefdeskapitein.md) | [here](CD07_Liefdeskapitein20180228.ogg) | . | . | . 
 
 ## Raw material
 
