@@ -4,7 +4,7 @@ Branch|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 ---|---
 master|[![Build Status](https://travis-ci.org/richelbilderbeek/IkZingAlleenVoorDeKoningin.svg?branch=master)](https://travis-ci.org/richelbilderbeek/IkZingAlleenVoorDeKoningin)
 
-My 7th music CD. I'm working on it...
+Richel Bilderbeek's 7th music CD.
 
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
