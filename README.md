@@ -12,7 +12,7 @@ Name|OGG|MP3|YouTube|MP4
 ---|---|---|---|---
 [Stuk Eiwit](https://github.com/richelbilderbeek/music/blob/master/StukEiwit.md) |[here](CD07_StukEiwit20070930.ogg)|[here](CD07_StukEiwit20070930.mp3)| . | .
 [Organellenwals](https://github.com/richelbilderbeek/music/blob/master/Organellenwals.md) | [here](CD07_Organellenwals.ogg)| [here](CD07_Organellenwals.mp3)| . | . 
-[Ben Ik Een Spin](https://github.com/richelbilderbeek/music/blob/master/BenIkEenSpin.md) | [here](CD07_BenIkEenSpin20070610.ogg) [here](CD07_BenIkEenSpin20180227.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)| . | . 
+[Ben Ik Een Spin](https://github.com/richelbilderbeek/music/blob/master/BenIkEenSpin.md) | [here](CD07_BenIkEenSpin20070610.ogg) [here](CD07_BenIkEenSpin20180227.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)| [here](https://youtu.be/TWnNQejBlHw) | [here](CD07_BenIkEenSpin20070610.ogv) 
 [Heejaa Mama](https://github.com/richelbilderbeek/music/blob/master/HeejaaMama.md) | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)| . | .
 [Voor De Klas](https://github.com/richelbilderbeek/music/blob/master/VoorDeKlas.md) | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)| . | . 
 [Vrouwen Van Je Dromen](https://github.com/richelbilderbeek/music/blob/master/VrouwenVanJeDromen.md) | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD07_VrouwenVanJeDromen20110424.mp3)| . | . 
@@ -22,7 +22,7 @@ Name|OGG|MP3|YouTube|MP4
 [Hee Ga Je Mee](https://github.com/richelbilderbeek/music/blob/master/HeeGaJeMee.md) | [here](CD07_HeeGaJeMee20130622.ogg) | [here](CD07_HeeGaJeMee20130622.mp3)| . | .
 [Monsier Pannetier](https://github.com/richelbilderbeek/music/blob/master/MonsieurPannetier.md) | . | . | . | [here](monsieur_pannetier.mp4)
 Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
-[Pjanoman](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md) | [here](CD07_Pjanoman20180227.ogg) | . | . | . 
+[Pjanoman](https://github.com/richelbilderbeek/music/blob/master/Pjanoman.md) | [here](CD07_Pjanoman20180227.ogg) | . | [here](https://youtu.be/f790a18Ngv0) | [here](CD07_Pjanoman20180227.ogv)
 Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
 [Liefdeskapitein](https://github.com/richelbilderbeek/music/blob/master/Liefdeskapitein.md) | [here](CD07_Liefdeskapitein20180228.ogg) | . | . | . 
 [Een](https://github.com/richelbilderbeek/music/blob/master/Een.md) | [here](CD07_Een20180228.ogg) | . | . | . 
