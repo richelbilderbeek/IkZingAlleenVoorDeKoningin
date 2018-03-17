@@ -31,7 +31,7 @@ Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToT
 [16777216 Kleuren](https://github.com/richelbilderbeek/music/blob/master/16777216Kleuren.md) | [here](CD07_16777216Kleuren20180317.ogg) | . | [here](https://youtu.be/fkbAa7Ao0Y0)  | [here](CD07_16777216Kleuren_20170304.mp4)
 [Het Leven Is Naar](https://github.com/richelbilderbeek/music/blob/master/HetLevenIsNaar.md) | [here](CD07_HetLevenIsNaar20180317.ogg) | . | [here](https://youtu.be/vCnuWdDL1Hs) | [here](CD07_HetLevenIsNaar20180317.mp4)
 [Wooloo Mooloo](https://github.com/richelbilderbeek/music/blob/master/WoolooMooloo.md) | [here](CD07_WoolooMooloo20180317.ogg) | . | [here](https://youtu.be/0fL1qSbjmSw) | [here](CD07_WoolooMooloo20180316.mp4)  
-[Morgenvroeg](https://github.com/richelbilderbeek/music/blob/master/Morgenvroeg.md) | [here](CD07_Morgenvroeg20180317.ogg) | . | . | [here](CD07_Morgenvroeg20180317.mp4)
+[Morgenvroeg](https://github.com/richelbilderbeek/music/blob/master/Morgenvroeg.md) | [here](CD07_Morgenvroeg20180317.ogg) | . | [here](https://youtu.be/8hb8Dpq0X2s) | [here](CD07_Morgenvroeg20180317.mp4)
 
 ## Raw material
 
