@@ -15,7 +15,7 @@ Name|OGG|MP3|YouTube|MP4
 [Stuk Eiwit](https://github.com/richelbilderbeek/music/blob/master/StukEiwit.md) |[here](CD07_StukEiwit20070930.ogg)|[here](CD07_StukEiwit20070930.mp3)| . | .
 [Organellenwals](https://github.com/richelbilderbeek/music/blob/master/Organellenwals.md) | [here](CD07_Organellenwals.ogg)| [here](CD07_Organellenwals.mp3)| . | . 
 [Ben Ik Een Spin](https://github.com/richelbilderbeek/music/blob/master/BenIkEenSpin.md) | [here](CD07_BenIkEenSpin20070610.ogg) [here](CD07_BenIkEenSpin20180227.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)| [here](https://youtu.be/TWnNQejBlHw) | [here](CD07_BenIkEenSpin20180227.mp4) 
-[Heejaa Mama](https://github.com/richelbilderbeek/music/blob/master/HeejaaMama.md) | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)| . | .
+[Heejaa Mama](https://github.com/richelbilderbeek/music/blob/master/HeejaaMama.md) | [here](CD07_HeejaaMama20180317.ogg) | . | . | .
 [Voor De Klas](https://github.com/richelbilderbeek/music/blob/master/VoorDeKlas.md) | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)| . | . 
 [Vrouwen Van Je Dromen](https://github.com/richelbilderbeek/music/blob/master/VrouwenVanJeDromen.md) | [here](CD07_VrouwenVanJeDromen20180317.ogg) | . | . | . 
 ["Friday"](https://github.com/richelbilderbeek/music/blob/master/Friday.md) | [here](CD07_Friday20110812.ogg) | [here](CD07_Friday20110812.mp3)| . | .
