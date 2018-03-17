@@ -28,7 +28,7 @@ Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
 Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
 [Liefdeskapitein](https://github.com/richelbilderbeek/music/blob/master/Liefdeskapitein.md) | [here](CD07_Liefdeskapitein20180228.ogg) | . | . | . 
 [Een](https://github.com/richelbilderbeek/music/blob/master/Een.md) | [here](CD07_Een20180228.ogg) | . | . | . 
-[16777216 Kleuren](https://github.com/richelbilderbeek/music/blob/master/16777216Kleuren.md) | [here](CD07_16777216Kleuren20180317.ogg) | . | . | . 
+[16777216 Kleuren](https://github.com/richelbilderbeek/music/blob/master/16777216Kleuren.md) | [here](CD07_16777216Kleuren20180317.ogg) | . | [here](https://youtu.be/fkbAa7Ao0Y0)  | .
 [Het Leven Is Naar](https://github.com/richelbilderbeek/music/blob/master/HetLevenIsNaar.md) | [here](CD07_HetLevenIsNaar20180317.ogg) | . | . | . 
 [Wooloo Mooloo](https://github.com/richelbilderbeek/music/blob/master/WoolooMooloo.md) | [here](CD07_WoolooMooloo20180317.ogg) | . | . | . 
 [Morgenvroeg](https://github.com/richelbilderbeek/music/blob/master/Morgenvroeg.md) | [here](CD07_Morgenvroeg20180317.ogg) | . | . | . 
