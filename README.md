@@ -31,6 +31,8 @@ Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToT
 [16777216 Kleuren](https://github.com/richelbilderbeek/music/blob/master/16777216Kleuren.md) | [here](CD07_16777216Kleuren20180317.ogg) | . | . | . 
 [Het Leven Is Naar](https://github.com/richelbilderbeek/music/blob/master/HetLevenIsNaar.md) | [Het Leven Is Naar](CD07_HetLevenIsNaar20180317.ogg) | . | . | . 
 [Wooloo Mooloo](https://github.com/richelbilderbeek/music/blob/master/WoolooMooloo.md) | [Het Leven Is Naar](CD07_WoolooMooloo20180317.ogg) | . | . | . 
+[Morgenvroeg](https://github.com/richelbilderbeek/music/blob/master/Morgenvroeg.md) | [Morgenvroeg](CD07_Morgenvroeg20180317.ogg) | . | . | . 
+
 
 ## Raw material
 
