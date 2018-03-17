@@ -17,7 +17,7 @@ Name|OGG|MP3|YouTube|MP4
 [Ben Ik Een Spin](https://github.com/richelbilderbeek/music/blob/master/BenIkEenSpin.md) | [here](CD07_BenIkEenSpin20070610.ogg) [here](CD07_BenIkEenSpin20180227.ogg) | [here](CD07_BenIkEenSpin20070610.mp3)| [here](https://youtu.be/TWnNQejBlHw) | [here](CD07_BenIkEenSpin20180227.mp4) 
 [Heejaa Mama](https://github.com/richelbilderbeek/music/blob/master/HeejaaMama.md) | [here](CD07_HeejaaMama20101211.ogg) | [here](CD07_HeejaaMama20101211.mp3)| . | .
 [Voor De Klas](https://github.com/richelbilderbeek/music/blob/master/VoorDeKlas.md) | [here](CD07_VoorDeKlas20101211.ogg) | [here](CD07_VoorDeKlas20101211.mp3)| . | . 
-[Vrouwen Van Je Dromen](https://github.com/richelbilderbeek/music/blob/master/VrouwenVanJeDromen.md) | [here](CD07_VrouwenVanJeDromen20110424.ogg) | [here](CD07_VrouwenVanJeDromen20110424.mp3)| . | . 
+[Vrouwen Van Je Dromen](https://github.com/richelbilderbeek/music/blob/master/VrouwenVanJeDromen.md) | [here](CD07_VrouwenVanJeDromen20180317.ogg) | . | . | . 
 ["Friday"](https://github.com/richelbilderbeek/music/blob/master/Friday.md) | [here](CD07_Friday20110812.ogg) | [here](CD07_Friday20110812.mp3)| . | .
 [Groningen Danst](https://github.com/richelbilderbeek/music/blob/master/GroningenDanst.md) | [here](CD07_GroningenDanst20120805.ogg) | [here](CD07_GroningenDanst20120805.mp3)| . | .
 [Superman B](https://github.com/richelbilderbeek/music/blob/master/SupermanB.md) | [here](CD07_SupermanB20130621.ogg) | [here](CD07_SupermanB20130621.mp3)| . | . 
@@ -28,7 +28,8 @@ Duizend Bier (instrumental) | [here](CD07_DuizendBier20110205.mp3) | . | . | .
 Santa Claus Is Coming To Town (instrumental) | [here](CD07_SantaClausIsComingToTown20180227.ogg) | . | . | . 
 [Liefdeskapitein](https://github.com/richelbilderbeek/music/blob/master/Liefdeskapitein.md) | [here](CD07_Liefdeskapitein20180228.ogg) | . | . | . 
 [Een](https://github.com/richelbilderbeek/music/blob/master/Een.md) | [here](CD07_Een20180228.ogg) | . | . | . 
-[16777216 Kleuren](https://github.com/richelbilderbeek/music/blob/master/16777216Kleuren.md) | [here](CD07_16777216Kleuren20180304_3.ogg) | . | . | . 
+[16777216 Kleuren](https://github.com/richelbilderbeek/music/blob/master/16777216Kleuren.md) | [here](CD07_16777216Kleuren20180317.ogg) | . | . | . 
+[Het Leven Is Naar](https://github.com/richelbilderbeek/music/blob/master/HetLevenIsNaar.md) | [Het Leven Is Naar](CD07_HetLevenIsNaar20180317.ogg) | . | . | . 
 
 ## Raw material
 
